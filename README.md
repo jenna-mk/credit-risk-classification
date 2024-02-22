@@ -1,4 +1,4 @@
-# Module 20 Challenge: Credit Risk Classification Using Logistical Regression
+# Module 20 Challenge: Credit Risk Classification Using Logistic Regression
 The purpose of this analysis is to take a dataset of historical lending activity from a peer-to-peer lending services company and use it to build a model that can identify the creditworthiness of borrowers. The dataset includes information such as loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, total debt, and loan status. The column I want to predict is loan status, which will enable me to use the model to judge whether a borrower is healthy or high-risk based on the other listed factors.
 
 In this analysis, I create labels and features, split the data into training and testing sets, create a logistic regression model with the split data, fit the model, and generated predictions based on this model. 
